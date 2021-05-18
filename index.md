@@ -1,10 +1,9 @@
 ---
 layout: home
-permalink: "/"
-title: Athena Jekyll Theme
+permalink: /
+title: Arda Hurbas Crypto Ventures
 
 ---
-
-A simple and elegant theme for Jekyll and GitHub Pages.
+Personal Website of Arda Hurbas
 
 
