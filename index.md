@@ -1,7 +1,7 @@
 ---
-layout: home
-permalink: /
-title: Arda Hurbas Crypto Ventures
+layout: default
+permalink: /buy
+title: Testing IDE
 
 ---
 Personal Website of Arda Hurbas
