@@ -2,11 +2,11 @@ title: CRYPTO
 description: Arda's IDE offering
 social_link: twitter
 social_username: dogpoolsan
-github_repo: dogpool/tinycoins321test
+github_repo: dogpool/irksome_apples
 github_username: dogpool
 theme_color: black
 remote_theme: internet-de-france/swiss
-baseurl: /tinycoins321test
+baseurl: /irksome_apples
 defaults:
   - scope:
       path: ''
