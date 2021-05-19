@@ -2,7 +2,7 @@
 layout: category_index
 title: BUY TESTNET
 permalink: /buy/
-category_name: BUY
+category_name: buy
 
 ---
 Click on this link to see the IDO pool for Arda coins on BNB testnet.
